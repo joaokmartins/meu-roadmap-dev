@@ -1,33 +1,29 @@
-# Meu Roadmap de Desenvolvimento 2024 🚀
+# Meu Roadmap de Desenvolvimento 2024
 
-## 📂 Projeto Atual
-- [simple-button](https://github.com/joaokmartins/simple-button)
-  - Meu primeiro projeto Next.js
+## Projetos
+- simple-button (https://github.com/joaokmartins/simple-button)
+  - Primeiro projeto Next.js
   - Criado em: 26/10/2024
-  - Status: Em desenvolvimento
 
-## 📅 Linha do Tempo
+## Diário de Bordo
 
-### Outubro 2024
-#### Semana 3
-- Dia 26
-  - ✅ Criei meu primeiro projeto Next.js
-  - ✅ Aprendi comandos básicos do Git (add, commit, push)
-  - ✅ Criei meu primeiro botão
-  - ✅ Aprendi a documentar com README
+26/10/2024 - Sábado
+- Conquistas do dia:
+  - Criei meu primeiro projeto Next.js (simple-button)
+  - Criei repositório de documentação (meu-roadmap-dev)
+  - Aprendi a organizar projetos no GitHub
 
-## 🎯 Próximos Objetivos
-- [ ] Aprender mais sobre GitHub
-- [ ] Melhorar o projeto do botão
-- [ ] Entender melhor sobre commits
+- Aprendi hoje:
+  - Comandos básicos do Git (add, commit, push)
+  - Como criar e atualizar README
+  - Padrões de commit (feat, docs, fix)
+  - Como estruturar documentação
 
-## 📚 O que aprendi hoje (26/10/2024)
-### Git e GitHub
-- Como criar repositório
-- Comandos básicos: git add, commit, push
-- Como fazer um bom README
+- Próxima sessão:
+  - Melhorar o botão (mudar cor ou adicionar contador)
+  - Praticar mais commits padronizados
+  - Continuar documentando progresso
 
-### Next.js
-- Como criar projeto
-- Como fazer um botão simples
-- Como usar 'use client'
+- Tempo codando hoje:
+  - 1 hora e 30 minutos
+  - Foco em: Git, GitHub e Next.js básico
